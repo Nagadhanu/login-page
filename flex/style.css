@@ -1,0 +1,104 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.box-container{
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    
+}
+.box1{
+    background-color: brown;
+}
+.box2{
+    background-color: sandybrown;
+}
+.box{
+    height: 100%;
+    width: 50%;
+
+}
+.bottom{
+    text-align: center;
+}
+.object{
+    background-color: white;
+    height: 600px;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 200px;
+    border-radius: 40px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+}
+.bottom{
+    text-align: center;
+    
+}
+h1{
+
+    color: sandybrown;
+}
+input{
+    height: 30px;
+    width: 250px;
+    margin-left: 20px;
+    
+    
+    
+}
+.details{
+    margin-top: 20px;
+    margin: 10px;
+
+}
+BUTTON{
+    background-color: sandybrown;
+    color: black;
+    margin-left: 90px;
+    margin-top: 20px;
+    padding: 10px;
+    cursor: pointer;
+    
+    
+}
+BUTTON :hover{
+    color: white;
+}
+
+.footer{
+    margin: 20px;
+}
+h4{
+    color: blue;
+
+}
+
+H3{
+    text-align: center;
+    margin: 30px;
+    margin-right: 100px;
+}
+.aboutus{
+    text-align: center;
+}
+.header{
+    font-size: 36px;
+    font-weight: bold;
+    font-family: arial;
+    color: white;
+    position: absolute;
+    top: 200px;
+    margin-left: 20px;
+
+
+}
+.end{
+    margin-top: 250px;
+    margin-left: 20px;
+    border: black 2px solid;
+    border-radius: 10px;
+    
+    
+}
+
